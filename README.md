@@ -38,7 +38,7 @@ Para rodar o Dogs localmente, siga os passos abaixo:
 
 1️⃣ Clone este repositório
 
-git clone https://github.com/seu-usuario/dogs.git
+git clone https://github.com/seu-usuario/dogs.git](https://github.com/amandaresende/dogs
 
 cd dogs
 
